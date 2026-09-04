@@ -1,6 +1,8 @@
 ## Aim:
 To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 
+#### Name: **Prahathieswaran S** 
+#### Reg No: **212225240107**
 
 ## ALGORITHM:
 
